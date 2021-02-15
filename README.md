@@ -9,4 +9,4 @@ List of cocoapods used:
   - https://cocoapods.org/pods/IQKeyboardManager 
   This second cocoapod was used to move the UI up when the user use the Keyboard. If not imported the keyboard overlaps with the "Send button".
   
-  
+  <img src="/Images/appVideo2.gif" height="500"/>
