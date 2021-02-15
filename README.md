@@ -5,3 +5,4 @@ List of cocoapods used:
   - https://cocoapods.org/pods/CLTypingLabel 
   This first cocoapod was used to animate the title in the first ViewController.
   
+appVideo.mov
